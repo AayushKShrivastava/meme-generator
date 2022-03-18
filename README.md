@@ -1,7 +1,7 @@
 # Meme-Generator
 This solution allows users to generate memes using hundreds of funny images, and by adding desired text on them. 
 
-![ScreenShot](./src/images/meme1.xfc)
+![ScreenShot](./src/images/meme1.png)
 
 Deployed Link: https://meme-generator-01.netlify.app/
 
